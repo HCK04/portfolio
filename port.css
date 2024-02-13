@@ -28,6 +28,10 @@ body {
 }
 /*---------------------------------*/
 
+
+/* Scroll Smooth*/
+
+
 .header{
 	position: fixed;
 	top: 0;
@@ -268,8 +272,6 @@ body {
 	position: relative;
 	top: 40px;
 /*	background-color: red;*/
-
-
 
 }
 .h1_about{
