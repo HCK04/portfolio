@@ -332,7 +332,14 @@ body {
 
 
 }
-
+.skill_h3{
+	display: flex;
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+/*	background-color: red;*/
+	padding-bottom: 40px;
+} 
 /*---------------------------------- ABOUT PAGE ----------------------------------------*/
 
 
